@@ -2,11 +2,11 @@
 
   <!-- Header Typing Animation -->
   <a href="https://github.com/reyhanhmdani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Raihan+Hamdani+%F0%9F%91%8B;Fullstack+%2F+Backend+Engineer;Laravel+%E2%80%A2+Go+%E2%80%A2+Clean+Architecture;Building+Scalable+Monoliths+%26+Robust+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Raihan+Hamdani+%F0%9F%91%8B;Fullstack+Developer;Laravel+%E2%80%A2+Go+%E2%80%A2+React+%E2%80%A2+Next.js;End-to-End+Web+Solutions+%26+Robust+APIs" alt="Typing SVG" />
   </a>
 
   <p>
-    <code>Backend Specialist</code> • <code>Monolith Architecture</code> • <code>Database Optimization</code>
+    <code>Fullstack Development</code> • <code>Monolith & API Architecture</code> • <code>Database Optimization</code>
   </p>
 
   <p>
@@ -30,8 +30,8 @@
       <h4>🌐 <a href="https://ayobuatbaik.com">ayobuatbaik.com</a></h4>
       <p><b>Solo Fullstack Development</b></p>
       <ul>
-        <li>Perancangan platform <i>end-to-end</i> dari arsitektur backend hingga tampilan interaktif.</li>
-        <li>Optimasi skema database relasional & alur transaksi sistem yang efisien.</li>
+        <li>Perancangan platform <i>end-to-end</i> dari arsitektur backend hingga antarmuka interaktif.</li>
+        <li>Optimasi skema database relasional & alur sistem yang efisien.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -39,7 +39,7 @@
       <p><b>School Landing Page & Profil Yayasan</b></p>
       <ul>
         <li>Website resmi profil sekolah & Yayasan Sayf El Falah.</li>
-        <li>Landing page informatif, cepat diakses, dan ramah pengguna (responsif).</li>
+        <li>Landing page informatif, cepat diakses, dan responsif.</li>
       </ul>
     </td>
   </tr>
@@ -48,8 +48,8 @@
       <h4>👤 <a href="https://andreraditya.guru">andreraditya.guru</a></h4>
       <p><b>Personal Website & Branding Ustadz</b></p>
       <ul>
-        <li>Platform web personal untuk profil, karya, dan branding dakwah/edukasi Ustadz Andre Raditya.</li>
-        <li>Struktur web clean, ringan, dan fokus pada kemudahan akses konten.</li>
+        <li>Platform web personal untuk profil, karya, dan branding edukasi/dakwah Ustadz Andre Raditya.</li>
+        <li>Struktur web clean, ringan, dan fokus pada kemudahan akses informasi.</li>
       </ul>
     </td>
   </tr>
@@ -61,23 +61,33 @@
 
 | Peran / Program | Institusi | Fokus & Aktivitas |
 | :--- | :--- | :--- |
-| **Backend Engineer** | **Lembaga Sayf El Falah** | Pemeliharaan sistem internal, perancangan web profile lembaga (`selfa.sch.id`), dan pengelolaan integrasi data. |
+| **Backend Engineer** | **Lembaga Sayf El Falah** | Pemeliharaan sistem internal, perancangan web profil lembaga (`selfa.sch.id`), dan pengelolaan integrasi data. |
 | **Intern (Meta Ads & IT Ops)** | **B_ERL Cosmetics (Tangerang)** | Eksekusi strategi Meta Ads & berkolaborasi lintas divisi bersama tim IT internal perusahaan. |
 | **Backend Trainee** | **Pondok IT Yogyakarta (1 Year)** | Pendalaman intensif arsitektur backend, logika server tingkat lanjut, dan perancangan database relasional. |
-| **Fullstack Graduate** | **DumbWays Indonesia (Batch 67)** | Standar alur kerja *fullstack engineering*, arsitektur monolit modern, dan *best practices* kolaborasi kode. |
+| **Fullstack Graduate** | **DumbWays Indonesia (Batch 67)** | Standar alur kerja *fullstack engineering*, integrasi frontend-backend modern, dan *best practices* kolaborasi kode. |
 
 ---
 
 ### 🛠️ Tech Stack & Tooling
 
 <p align="left">
-  <b>Backend & Core:</b><br />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+  <b>Frontend & UI:</b><br />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="left">
+  <b>Backend & APIs:</b><br />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
 </p>
 
 <p align="left">

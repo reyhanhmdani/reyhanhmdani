@@ -1,16 +1,14 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Raihan+Hamdani;Fullstack+Developer;Laravel+%2F+Go+%2F+React+%2F+Next.js;Architecting+Scalable+Monoliths+%26+Robust+APIs" alt="Typing Header" />
+  <!-- Terminal Typing Header -->
+  <a href="https://github.com/reyhanhmdani">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Raihan+Hamdani;Fullstack+Developer;Laravel+%2F+Go+%2F+React+%2F+Next.js;Architecting+Scalable+Monoliths+%26+Robust+APIs" alt="Typing Header" />
+  </a>
 
-  <p align="center">
-    <a href="https://github.com/reyhanhmdani">
-      <img src="https://komarev.com/ghpvc/?username=reyhanhmdani&style=flat-square&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
-  </p>
+  <!-- Animated Glowing Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,38bdf8,818cf8,c084fc&height=3&section=header" width="100%" />
 
 </div>
-
----
 
 ### System Capabilities & Stack
 
@@ -22,11 +20,12 @@
 [DEVOPS]   -> Docker / Git / CI-CD Workflows / Linux / Postman
 
 
-</div>
+  <!-- Interactive Animated Skill Grid -->
+  <a href="#system-capabilities--stack">
+    <img src="https://skillicons.dev/icons?i=laravel,php,go,react,nextjs,ts,js,nodejs,express,tailwind,postgres,mysql,redis,docker,git,postman&perline=8&theme=dark" alt="Tech Stack Grid" />
+  </a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,go,react,nextjs,ts,js,nodejs,express,tailwind,postgres,mysql,redis,docker,git,postman&perline=8&theme=dark" alt="Tech Stack Badges" />
-</p>
+</div>
 
 ---
 
@@ -35,14 +34,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><b>ayobuatbaik.com</b> | <i>Solo Fullstack Development</i></p>
+      <h4>🌐 <a href="https://ayobuatbaik.com">ayobuatbaik.com</a></h4>
+      <p><b>Solo Fullstack Development</b></p>
       <ul>
         <li>End-to-end monolithic architecture implementation.</li>
         <li>Relational database indexing and transactional throughput optimization.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <p><b>selfa.sch.id</b> | <i>Web Infrastructure & Profile</i></p>
+      <h4>🏫 <a href="https://selfa.sch.id">selfa.sch.id</a></h4>
+      <p><b>School Landing Page & Profile</b></p>
       <ul>
         <li>Institutional web portal for Sayf El Falah Islamic Boarding School.</li>
         <li>High-availability landing page with responsive component structure.</li>
@@ -51,7 +52,8 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <p><b>andreraditya.guru</b> | <i>Personal Brand Portal</i></p>
+      <h4>👤 <a href="https://andreraditya.guru">andreraditya.guru</a></h4>
+      <p><b>Personal Brand Portal</b></p>
       <ul>
         <li>Personal website for Ustadz Andre Raditya with optimized asset delivery and clean routing.</li>
       </ul>
@@ -75,29 +77,22 @@
 ### Activity & Performance Metrics
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyhanhmdani&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=reyhanhmdani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-
+  <!-- Dynamic Contribution Graph (Lebar Penuh & Anti Broken) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reyhanhmdani&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=38bdf8&point=818cf8" alt="Activity Graph" width="95%" />
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyhanhmdani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reyhanhmdani&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="48%" />
-</div>
 
 ---
 
 <div align="center">
 
   <a href="https://instagram.com/reeeeey___" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://github.com/reyhanhmdani" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
 </div>

@@ -1,81 +1,61 @@
-<div align="center">
-
-  <!-- Header Banner -->
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,38bdf8,818cf8,c084fc&height=200&section=header&text=Raihan%20Hamdani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20%E2%80%A2%20Go%20%E2%80%A2%20React%20%E2%80%A2%20Next.js&descAlignY=58&descSize=18](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,38bdf8,818cf8,c084fc&height=200&section=header&text=Raihan%20Hamdani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20%E2%80%A2%20Go%20%E2%80%A2%20React%20%E2%80%A2%20Next.js&descAlignY=58&descSize=18)" width="100%" alt="Header Banner" />
-
-  <!-- Animated Typing Subtitle -->
-  <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=40&lines=Building+Scalable+Monoliths+%26+Robust+APIs;Fullstack+Engineering+%26+Database+Optimization](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=40&lines=Building+Scalable+Monoliths+%26+Robust+APIs;Fullstack+Engineering+%26+Database+Optimization)" alt="Typing SVG" />
-
-  <!-- Dynamic Tech Stack Grid -->
-  <p align="center">
-    <img src="[https://skillicons.dev/icons?i=laravel,php,go,react,nextjs,ts,js,nodejs,express,tailwind,postgres,mysql,redis,docker,git,postman&perline=8&theme=dark](https://skillicons.dev/icons?i=laravel,php,go,react,nextjs,ts,js,nodejs,express,tailwind,postgres,mysql,redis,docker,git,postman&perline=8&theme=dark)" alt="Tech Stack Icons" />
-  </p>
-
-</div>
+# Raihan Hamdani
+> **Fullstack Developer** | Specializing in Laravel, Go, React, and Scalable Web Architectures.
 
 ---
 
-### Deployments & Projects
+### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>ayobuatbaik.com</h4>
-      <p><b>Solo Fullstack Development</b></p>
-      <ul>
-        <li>End-to-end monolithic architecture implementation.</li>
-        <li>Relational database indexing & throughput optimization.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>selfa.sch.id</h4>
-      <p><b>School Landing Page & Profile</b></p>
-      <ul>
-        <li>Official institutional web portal for Sayf El Falah.</li>
-        <li>High-availability responsive landing page structure.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>andreraditya.guru</h4>
-      <p><b>Personal Brand Portal</b></p>
-      <ul>
-        <li>Personal website for Ustadz Andre Raditya with optimized asset delivery and clean routing.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* **[ayobuatbaik.com](https://ayobuatbaik.com)** — *Solo Fullstack Development*
+  * End-to-end monolithic architecture implementation.
+  * Relational database indexing and optimized transactional throughput.
+
+* **[selfa.sch.id](https://selfa.sch.id)** — *School Landing Page & Profile*
+  * Institutional portal for Yayasan & Pesantren Sayf El Falah.
+  * Fast-loading, responsive landing page structure.
+
+* **[andreraditya.guru](https://andreraditya.guru)** — *Personal Brand Portal*
+  * Personal portfolio and branding website for Ustadz Andre Raditya.
+  * Clean layout focused on lightweight asset delivery.
 
 ---
 
-### Track Record & Timeline
+### Experience & Education
 
-| Timeline / Role | Organization | Core Scope |
+| Role / Program | Organization | Core Scope |
 | :--- | :--- | :--- |
 | **Backend Engineer** | **Lembaga Sayf El Falah** | Internal platforms infrastructure, web profiling, and data services. |
-| **Intern (Meta Ads & IT Ops)** | **B_ERL Cosmetics** | Meta Ads performance routing and cross-divisional IT team collaboration. |
+| **Intern (Meta Ads & IT Ops)** | **B_ERL Cosmetics** | Meta Ads performance tracking and cross-divisional IT team collaboration. |
 | **Backend Trainee** | **Pondok IT Yogyakarta** | 1-Year intensive backend systems, database structuring, and API security. |
-| **Fullstack Graduate** | **DumbWays Indonesia** | Batch 67 fullstack application workflows and codebase collaboration. |
+| **Fullstack Graduate** | **DumbWays Indonesia** | Batch 67 fullstack workflows and modern application architecture. |
 
 ---
 
-### Activity & Performance Metrics
+### Tech Stack & Tooling
 
-<div align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=reyhanhmdani&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=38bdf8&point=818cf8](https://github-readme-activity-graph.vercel.app/graph?username=reyhanhmdani&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=38bdf8&point=818cf8)" alt="Activity Graph" width="98%" />
-</div>
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & APIs**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Databases & DevOps**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-<div align="center">
+### Connect
 
-  <a href="[https://instagram.com/reeeeey](https://instagram.com/reeeeey)___" target="_blank">
-    <img src="[https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="[https://github.com/reyhanhmdani](https://github.com/reyhanhmdani)" target="_blank">
-    <img src="[https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" />
-  </a>
-
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/reeeeey___)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/reyhanhmdani)

@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Header Typing Animation (Lebar disesuaikan agar tidak terpotong) -->
+  <!-- Header Typing Animation -->
   <a href="https://github.com/reyhanhmdani">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Raihan+Hamdani+%F0%9F%91%8B;Fullstack+%2F+Backend+Engineer;Laravel+%E2%80%A2+Go+%E2%80%A2+Clean+Architecture;Building+Scalable+Monoliths+%26+Robust+APIs" alt="Typing SVG" />
   </a>
@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Featured Projects & Systems
+### 🚀 Featured Projects & Web Deployments
 
 <table>
   <tr>
@@ -30,25 +30,26 @@
       <h4>🌐 <a href="https://ayobuatbaik.com">ayobuatbaik.com</a></h4>
       <p><b>Solo Fullstack Development</b></p>
       <ul>
-        <li>Perancangan arsitektur sistem monolit <i>end-to-end</i>.</li>
-        <li>Optimasi skema database relasional & interaksi antarmuka responsif.</li>
+        <li>Perancangan platform <i>end-to-end</i> dari arsitektur backend hingga tampilan interaktif.</li>
+        <li>Optimasi skema database relasional & alur transaksi sistem yang efisien.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🏫 <a href="https://selfa.sch.id">selfa.sch.id</a></h4>
-      <p><b>Academic Platform & Infrastructure</b></p>
+      <p><b>School Landing Page & Profil Yayasan</b></p>
       <ul>
-        <li>Platform resmi & backend management Yayasan Sayf El Falah.</li>
-        <li>Integrasi layanan data dan optimasi performa server logic.</li>
+        <li>Website resmi profil sekolah & Yayasan Sayf El Falah.</li>
+        <li>Landing page informatif, cepat diakses, dan ramah pengguna (responsif).</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>🎓 <a href="https://andreraditya.guru">andreraditya.guru</a></h4>
-      <p><b>Web Development & Digital Presence</b></p>
+      <h4>👤 <a href="https://andreraditya.guru">andreraditya.guru</a></h4>
+      <p><b>Personal Website & Branding Ustadz</b></p>
       <ul>
-        <li>Portal branding edukatif dengan performa aset cepat dan struktur responsif.</li>
+        <li>Platform web personal untuk profil, karya, dan branding dakwah/edukasi Ustadz Andre Raditya.</li>
+        <li>Struktur web clean, ringan, dan fokus pada kemudahan akses konten.</li>
       </ul>
     </td>
   </tr>
@@ -58,12 +59,12 @@
 
 ### 💼 Experience & Background
 
-| Peran / Program | Institusi | Fokus Utama |
+| Peran / Program | Institusi | Fokus & Aktivitas |
 | :--- | :--- | :--- |
-| **Backend Engineer** | **Lembaga Sayf El Falah** | Arsitektur backend, manajemen API RESTful, & pemeliharaan server platform inti. |
-| **Backend Intern** | **B_ERL Cosmetics (Tangerang)** | *Database query tuning*, integrasi modul fitur, dan *system maintenance*. |
-| **Backend Trainee** | **Pondok IT Yogyakarta (1 Year)** | Pendalaman intensif arsitektur backend, keamanan API, dan performa tinggi. |
-| **Fullstack Graduate** | **DumbWays Indonesia (Batch 67)** | Standar alur kerja fullstack modern, kolaborasi tim, dan best-practice arsitektur. |
+| **Backend Engineer** | **Lembaga Sayf El Falah** | Pemeliharaan sistem internal, perancangan web profile lembaga (`selfa.sch.id`), dan pengelolaan integrasi data. |
+| **Intern (Meta Ads & IT Ops)** | **B_ERL Cosmetics (Tangerang)** | Eksekusi strategi Meta Ads & berkolaborasi lintas divisi bersama tim IT internal perusahaan. |
+| **Backend Trainee** | **Pondok IT Yogyakarta (1 Year)** | Pendalaman intensif arsitektur backend, logika server tingkat lanjut, dan perancangan database relasional. |
+| **Fullstack Graduate** | **DumbWays Indonesia (Batch 67)** | Standar alur kerja *fullstack engineering*, arsitektur monolit modern, dan *best practices* kolaborasi kode. |
 
 ---
 

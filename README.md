@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raihan Hamdani</h1>
+
 <p align="center">
-  <strong>Full-Stack Software Engineer</strong> | Specializing in Go, Laravel, React & Scalable Web Architectures
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=40&lines=Full-Stack+Software+Engineer;Go+(Golang)+%E2%80%A2+Laravel+%E2%80%A2+React;Building+Scalable+%26+High-Performance+Web;Docker+%E2%80%A2+WebSockets+%E2%80%A2+REST+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -81,12 +82,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyhanhmdani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Reyhan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reyhanhmdani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 🔥 GitHub Streak & Consistency
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyhanhmdani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

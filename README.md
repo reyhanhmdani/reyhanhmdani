@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raihan Hamdani</h1>
 <p align="center">
-  <strong>Full-Stack & Mobile Engineer</strong> | Specializing in Laravel, Go, React, React Native & Scalable Architectures
+  <strong>Full-Stack Software Engineer</strong> | Specializing in Go, Laravel, React & Scalable Web Architectures
 </p>
 
 <p align="center">
@@ -14,30 +14,32 @@
 
 ### 📌 About Me
 
-- 🔭 **Currently Building:** [Clinic App Ecosystem](https://github.com/reyhanhmdani/Clinic_APP_BOOTCAMPS) & Production-grade Web Apps
-- 🌱 **Deepening Knowledge:** Advanced Distributed Systems, Microservices & High-Throughput APIs
-- 🤝 **Open for Collaboration:** Open-source projects in Go, React Native, and TypeScript
-- ⚡ **Engineering Habit:** *"I spend more time finding clean, descriptive variable names than writing actual logic."*
+- 🔭 **Currently Building:** Production-grade web platforms & [ReyClinic Ecosystem](https://github.com/reyhanhmdani/Clinic_APP_BOOTCAMPS)
+- 🌱 **Deepening Knowledge:** System Architecture, High-Performance Go Backends & Database Optimization
+- ⚡ **Engineering Mindset:** Leveraging modern AI-augmented workflows for rapid delivery while maintaining strict code architecture & production reliability
+- 🎯 **Open for Roles:** Full-Stack & Backend Software Engineer (Full-time, Contract, or Freelance)
 
 ---
 
 ### 🚀 Featured Projects
 
-* **[ayobuatbaik.com](https://ayobuatbaik.com)** — *Solo Fullstack Development*
-  * End-to-end monolithic architecture implementation.
-  * Relational database indexing and optimized transactional throughput.
+* **[ReyClinic](https://github.com/reyhanhmdani/Clinic_APP_BOOTCAMPS)** — *Medical Clinic Management & EMR Platform*
+  * Refactored backend from Express.js to **Golang (Gin & GORM)** with native WebSockets for real-time patient queue broadcasting.
+  * Slashed idle container memory footprint to **~10–15MB RAM** inside minimal Alpine Linux Docker.
+  * End-to-end medical workflow: Patient self-service (Midtrans QRIS), Doctor EMR, Pharmacy automated stock deduction, and Dockerized deployment.
 
-* **[selfa.sch.id](https://selfa.sch.id)** — *School Landing Page & Institutional Portal*
-  * Portal for Yayasan & Pesantren Sayf El Falah.
-  * Fast-loading, responsive architecture designed for high mobile traffic.
+* **[ayobuatbaik.com](https://ayobuatbaik.com)** — *Crowdfunding & Donation Platform (PWA)*
+  * Built a production crowdfunding platform using **Laravel 11**, Tailwind CSS, and Alpine.js.
+  * Integrated **Midtrans Payment Gateway** for automated donation settlements.
+  * Automated WhatsApp broadcast queues and retention reminders using scheduled background workers (cron jobs).
 
-* **[Clinic App Bootcamps](https://github.com/reyhanhmdani/Clinic_APP_BOOTCAMPS)** — *Healthcare Management Service*
-  * Multi-role clinic appointment & patient records management.
-  * Structured RESTful API integration and modular state management.
+* **[selfa.sch.id](https://selfa.sch.id)** — *Educational & Institutional Web Portal*
+  * Official web portal for Yayasan & Pesantren Sayf El Falah.
+  * Built with responsive, mobile-first UI and fast load-time optimization.
 
-* **[andreraditya.guru](https://andreraditya.guru)** — *Personal Brand Portal*
-  * Personal portfolio and branding platform for Ustadz Andre Raditya.
-  * Focused on lightweight asset delivery and SEO optimization.
+* **[andreraditya.guru](https://andreraditya.guru)** — *Personal Brand & Content Portal*
+  * Digital branding and educational content platform for author & mentor Andre Raditya.
+  * Lightweight architecture focused on fast asset delivery and SEO.
 
 ---
 
@@ -45,7 +47,7 @@
 
 | Role / Program | Organization | Core Scope |
 | :--- | :--- | :--- |
-| **Backend Engineer** | **Lembaga Sayf El Falah** | Internal platform infrastructure, institutional web profiling, and data services. |
+| **Full-Stack Developer** | **Lembaga Sayf El Falah** | Internal platform infrastructure, institutional web profiling, and data services. |
 | **Intern (Meta Ads & IT Ops)** | **B_ERL Cosmetics** | Ad tech performance tracking and cross-divisional IT workflow support. |
 | **Backend Trainee** | **Pondok IT Yogyakarta** | 1-Year intensive program: backend architecture, relational DB design, and API security. |
 | **Fullstack Graduate** | **DumbWays Indonesia** | Batch 67: modern fullstack engineering, Agile workflows, and full-cycle app delivery. |
@@ -54,7 +56,7 @@
 
 ### 🛠️ Tech Stack & Tooling
 
-**Languages & Frameworks**  
+**Languages & Backend**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -63,16 +65,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Frontend & Mobile**  
+**Frontend & Styling**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Database & DevOps**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)

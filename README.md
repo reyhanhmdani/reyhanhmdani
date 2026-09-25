@@ -15,7 +15,7 @@
 
 ### 📌 About Me
 
-- 🔭 **Currently Building:** Production-grade web platforms & [ReyClinic Ecosystem](https://github.com/reyhanhmdani/Clinic_APP_BOOTCAMPS)
+- 🔭 **Current Focus:** Seeking new challenges as a Full-Stack / Backend Software Engineer & contributing to web platforms
 - 🌱 **Deepening Knowledge:** System Architecture, High-Performance Go Backends & Database Optimization
 - ⚡ **Engineering Mindset:** Leveraging modern AI-augmented workflows for rapid delivery while maintaining strict code architecture & production reliability
 - 🎯 **Open for Roles:** Full-Stack & Backend Software Engineer (Full-time, Contract, or Freelance)
